@@ -1,0 +1,1514 @@
+{
+  "result": "ok",
+  "timestamp": "2022-06-21 18:36:29",
+  "addresses": [
+    {
+      "id": "1315FOBPFCZIL0",
+      "title": "м. Дніпро, вул. Маршала Малиновського, буд. 36, кв. 135",
+      "alias": "перемоги6",
+      "counter": 0,
+      "address_info": {
+        "nodes": [
+          {
+            "code": "UA40773",
+            "desc": "Україна",
+            "inner_id": "UKR",
+            "lang_code": "UAN",
+            "node_type_code": "COUNTRY",
+            "node_type_code_id": 44,
+            "node_type_id": 1,
+            "node_type_name": "країна",
+            "node_type_sname": "країна"
+          },
+          {
+            "code": "UA4973",
+            "desc": "Дніпропетровська",
+            "inner_id": "UKR004",
+            "lang_code": "UAN",
+            "node_type_code": "AREA",
+            "node_type_code_id": 5,
+            "node_type_id": 2,
+            "node_type_name": "область",
+            "node_type_sname": "обл"
+          },
+          {
+            "code": "UA4974",
+            "desc": "Дніпро",
+            "inner_id": "UKR004001",
+            "lang_code": "UAN",
+            "node_type_code": "CITY",
+            "node_type_code_id": 1,
+            "node_type_id": 4,
+            "node_type_name": "місто",
+            "node_type_sname": "м"
+          },
+          {
+            "code": "2X1RZIKXLT4A00",
+            "desc": "Маршала Малиновського",
+            "inner_id": "UKR00400113R",
+            "lang_code": "UAN",
+            "node_type_code": "STREET",
+            "node_type_code_id": 36,
+            "node_type_id": 8,
+            "node_type_name": "вулиця",
+            "node_type_sname": "вул"
+          },
+          {
+            "code": "1312NFRKPH7Q40",
+            "desc": "36",
+            "inner_id": "UKR00400113R00G",
+            "lang_code": "UAN",
+            "node_type_code": "BUILDING",
+            "node_type_code_id": 38,
+            "node_type_id": 9,
+            "node_type_name": "будинок",
+            "node_type_sname": "буд"
+          },
+          {
+            "code": "1315FOBPFCZIL0",
+            "desc": "135",
+            "inner_id": "UKR00400113R00G00I",
+            "lang_code": "UAN",
+            "node_type_code": "FLAT",
+            "node_type_code_id": 40,
+            "node_type_id": 11,
+            "node_type_name": "квартира",
+            "node_type_sname": "кв"
+          }
+        ]
+      }
+    },
+    {
+      "id": "25CB08X38JMM00",
+      "title": "м. Дніпро, масив. Тополя-1, буд. 7, кв. 51",
+      "alias": "КеЙс_444",
+      "counter": 14,
+      "address_info": {
+        "nodes": [
+          {
+            "code": "UA40773",
+            "desc": "Україна",
+            "inner_id": "UKR",
+            "lang_code": "UAN",
+            "node_type_code": "COUNTRY",
+            "node_type_code_id": 44,
+            "node_type_id": 1,
+            "node_type_name": "країна",
+            "node_type_sname": "країна"
+          },
+          {
+            "code": "UA4973",
+            "desc": "Дніпропетровська",
+            "inner_id": "UKR004",
+            "lang_code": "UAN",
+            "node_type_code": "AREA",
+            "node_type_code_id": 5,
+            "node_type_id": 2,
+            "node_type_name": "область",
+            "node_type_sname": "обл"
+          },
+          {
+            "code": "UA4974",
+            "desc": "Дніпро",
+            "inner_id": "UKR004001",
+            "lang_code": "UAN",
+            "node_type_code": "CITY",
+            "node_type_code_id": 1,
+            "node_type_id": 4,
+            "node_type_name": "місто",
+            "node_type_sname": "м"
+          },
+          {
+            "code": "2B1KILGAXZI000",
+            "desc": "Тополя-1",
+            "inner_id": "UKR0040011LC",
+            "lang_code": "UAN",
+            "node_type_code": "HOUSING_ESTATE",
+            "node_type_code_id": 14,
+            "node_type_id": 7,
+            "node_type_name": "масив",
+            "node_type_sname": "масив"
+          },
+          {
+            "code": "23MFZE33IGQ500",
+            "desc": "7",
+            "inner_id": "UKR0040011LC00O",
+            "lang_code": "UAN",
+            "node_type_code": "BUILDING",
+            "node_type_code_id": 38,
+            "node_type_id": 9,
+            "node_type_name": "будинок",
+            "node_type_sname": "буд"
+          },
+          {
+            "code": "25CB08X38JMM00",
+            "desc": "51",
+            "inner_id": "UKR0040011LC00O01M",
+            "lang_code": "UAN",
+            "node_type_code": "FLAT",
+            "node_type_code_id": 40,
+            "node_type_id": 11,
+            "node_type_name": "квартира",
+            "node_type_sname": "кв"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2374CLTYXSY700",
+      "title": "м. Дніпро, масив. Тополя-2, буд. 2, корп. 5, кв. 2",
+      "alias": "тополь-2{} 10",
+      "counter": 0,
+      "address_info": {
+        "nodes": [
+          {
+            "code": "UA40773",
+            "desc": "Україна",
+            "inner_id": "UKR",
+            "lang_code": "UAN",
+            "node_type_code": "COUNTRY",
+            "node_type_code_id": 44,
+            "node_type_id": 1,
+            "node_type_name": "країна",
+            "node_type_sname": "країна"
+          },
+          {
+            "code": "UA4973",
+            "desc": "Дніпропетровська",
+            "inner_id": "UKR004",
+            "lang_code": "UAN",
+            "node_type_code": "AREA",
+            "node_type_code_id": 5,
+            "node_type_id": 2,
+            "node_type_name": "область",
+            "node_type_sname": "обл"
+          },
+          {
+            "code": "UA4974",
+            "desc": "Дніпро",
+            "inner_id": "UKR004001",
+            "lang_code": "UAN",
+            "node_type_code": "CITY",
+            "node_type_code_id": 1,
+            "node_type_id": 4,
+            "node_type_name": "місто",
+            "node_type_sname": "м"
+          },
+          {
+            "code": "2B1KJ15CYIW000",
+            "desc": "Тополя-2",
+            "inner_id": "UKR0040011LD",
+            "lang_code": "UAN",
+            "node_type_code": "HOUSING_ESTATE",
+            "node_type_code_id": 14,
+            "node_type_id": 7,
+            "node_type_name": "масив",
+            "node_type_sname": "масив"
+          },
+          {
+            "code": "21MHKMEBWVW300",
+            "desc": "2",
+            "inner_id": "UKR0040011LD004",
+            "lang_code": "UAN",
+            "node_type_code": "BUILDING",
+            "node_type_code_id": 38,
+            "node_type_id": 9,
+            "node_type_name": "будинок",
+            "node_type_sname": "буд"
+          },
+          {
+            "code": "22P2QXN5ET2R00",
+            "desc": "5",
+            "inner_id": "UKR0040011LD004002",
+            "lang_code": "UAN",
+            "node_type_code": "CORPUS",
+            "node_type_code_id": 39,
+            "node_type_id": 10,
+            "node_type_name": "корпус",
+            "node_type_sname": "корп"
+          },
+          {
+            "code": "2374CLTYXSY700",
+            "desc": "2",
+            "inner_id": "UKR0040011LD004002002",
+            "lang_code": "UAN",
+            "node_type_code": "FLAT",
+            "node_type_code_id": 40,
+            "node_type_id": 11,
+            "node_type_name": "квартира",
+            "node_type_sname": "кв"
+          }
+        ]
+      }
+    },
+    {
+      "id": "25CDUUAK6NPB00",
+      "title": "м. Дніпро, масив. Тополя-3, буд. 10, кв. 36",
+      "counter": 0,
+      "address_info": {
+        "nodes": [
+          {
+            "code": "UA40773",
+            "desc": "Україна",
+            "inner_id": "UKR",
+            "lang_code": "UAN",
+            "node_type_code": "COUNTRY",
+            "node_type_code_id": 44,
+            "node_type_id": 1,
+            "node_type_name": "країна",
+            "node_type_sname": "країна"
+          },
+          {
+            "code": "UA4973",
+            "desc": "Дніпропетровська",
+            "inner_id": "UKR004",
+            "lang_code": "UAN",
+            "node_type_code": "AREA",
+            "node_type_code_id": 5,
+            "node_type_id": 2,
+            "node_type_name": "область",
+            "node_type_sname": "обл"
+          },
+          {
+            "code": "UA4974",
+            "desc": "Дніпро",
+            "inner_id": "UKR004001",
+            "lang_code": "UAN",
+            "node_type_code": "CITY",
+            "node_type_code_id": 1,
+            "node_type_id": 4,
+            "node_type_name": "місто",
+            "node_type_sname": "м"
+          },
+          {
+            "code": "2B1KKBOZWJZ000",
+            "desc": "Тополя-3",
+            "inner_id": "UKR0040011LE",
+            "lang_code": "UAN",
+            "node_type_code": "HOUSING_ESTATE",
+            "node_type_code_id": 14,
+            "node_type_id": 7,
+            "node_type_name": "масив",
+            "node_type_sname": "масив"
+          },
+          {
+            "code": "2233YD41WR5U00",
+            "desc": "10",
+            "inner_id": "UKR0040011LE00I",
+            "lang_code": "UAN",
+            "node_type_code": "BUILDING",
+            "node_type_code_id": 38,
+            "node_type_id": 9,
+            "node_type_name": "будинок",
+            "node_type_sname": "буд"
+          },
+          {
+            "code": "25CDUUAK6NPB00",
+            "desc": "36",
+            "inner_id": "UKR0040011LE00I01K",
+            "lang_code": "UAN",
+            "node_type_code": "FLAT",
+            "node_type_code_id": 40,
+            "node_type_id": 11,
+            "node_type_name": "квартира",
+            "node_type_sname": "кв"
+          }
+        ]
+      }
+    },
+    {
+      "id": "21XA0ISQXATR00",
+      "title": "м. Дніпро, масив. Тополя-3, буд. 12",
+      "counter": 0,
+      "address_info": {
+        "nodes": [
+          {
+            "code": "UA40773",
+            "desc": "Україна",
+            "inner_id": "UKR",
+            "lang_code": "UAN",
+            "node_type_code": "COUNTRY",
+            "node_type_code_id": 44,
+            "node_type_id": 1,
+            "node_type_name": "країна",
+            "node_type_sname": "країна"
+          },
+          {
+            "code": "UA4973",
+            "desc": "Дніпропетровська",
+            "inner_id": "UKR004",
+            "lang_code": "UAN",
+            "node_type_code": "AREA",
+            "node_type_code_id": 5,
+            "node_type_id": 2,
+            "node_type_name": "область",
+            "node_type_sname": "обл"
+          },
+          {
+            "code": "UA4974",
+            "desc": "Дніпро",
+            "inner_id": "UKR004001",
+            "lang_code": "UAN",
+            "node_type_code": "CITY",
+            "node_type_code_id": 1,
+            "node_type_id": 4,
+            "node_type_name": "місто",
+            "node_type_sname": "м"
+          },
+          {
+            "code": "2B1KKBOZWJZ000",
+            "desc": "Тополя-3",
+            "inner_id": "UKR0040011LE",
+            "lang_code": "UAN",
+            "node_type_code": "HOUSING_ESTATE",
+            "node_type_code_id": 14,
+            "node_type_id": 7,
+            "node_type_name": "масив",
+            "node_type_sname": "масив"
+          },
+          {
+            "code": "21XA0ISQXATR00",
+            "desc": "12",
+            "inner_id": "UKR0040011LE00A",
+            "lang_code": "UAN",
+            "node_type_code": "BUILDING",
+            "node_type_code_id": 38,
+            "node_type_id": 9,
+            "node_type_name": "будинок",
+            "node_type_sname": "буд"
+          }
+        ]
+      }
+    },
+    {
+      "id": "24329GHHBAIVZ0",
+      "title": "м. Кам'янське, просп. Металургів, буд. 74, корп. В, кв. 56",
+      "counter": 0,
+      "address_info": {
+        "nodes": [
+          {
+            "code": "UA40773",
+            "desc": "Україна",
+            "inner_id": "UKR",
+            "lang_code": "UAN",
+            "node_type_code": "COUNTRY",
+            "node_type_code_id": 44,
+            "node_type_id": 1,
+            "node_type_name": "країна",
+            "node_type_sname": "країна"
+          },
+          {
+            "code": "UA4973",
+            "desc": "Дніпропетровська",
+            "inner_id": "UKR004",
+            "lang_code": "UAN",
+            "node_type_code": "AREA",
+            "node_type_code_id": 5,
+            "node_type_id": 2,
+            "node_type_name": "область",
+            "node_type_sname": "обл"
+          },
+          {
+            "code": "UA4985",
+            "desc": "Кам'янське",
+            "inner_id": "UKR004003",
+            "lang_code": "UAN",
+            "node_type_code": "CITY",
+            "node_type_code_id": 1,
+            "node_type_id": 4,
+            "node_type_name": "місто",
+            "node_type_sname": "м"
+          },
+          {
+            "code": "2B16FFACM5E000",
+            "desc": "Металургів",
+            "inner_id": "UKR0040030EB",
+            "lang_code": "UAN",
+            "node_type_code": "PROSPECT",
+            "node_type_code_id": 31,
+            "node_type_id": 8,
+            "node_type_name": "проспект",
+            "node_type_sname": "просп"
+          },
+          {
+            "code": "21VM2MYBRNZ000",
+            "desc": "74",
+            "inner_id": "UKR0040030EB003",
+            "lang_code": "UAN",
+            "node_type_code": "BUILDING",
+            "node_type_code_id": 38,
+            "node_type_id": 9,
+            "node_type_name": "будинок",
+            "node_type_sname": "буд"
+          },
+          {
+            "code": "22S22J7248R000",
+            "desc": "В",
+            "inner_id": "UKR0040030EB003002",
+            "lang_code": "UAN",
+            "node_type_code": "CORPUS",
+            "node_type_code_id": 39,
+            "node_type_id": 10,
+            "node_type_name": "корпус",
+            "node_type_sname": "корп"
+          },
+          {
+            "code": "24329GHHBAIVZ0",
+            "desc": "56",
+            "inner_id": "UKR0040030EB003002006",
+            "lang_code": "UAN",
+            "node_type_code": "FLAT",
+            "node_type_code_id": 40,
+            "node_type_id": 11,
+            "node_type_name": "квартира",
+            "node_type_sname": "кв"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5284R6WOJE4IGC",
+      "title": "м. Київ, мкр. Дврз-1, буд. 9",
+      "counter": 0,
+      "address_info": {
+        "nodes": [
+          {
+            "code": "UA40773",
+            "desc": "Україна",
+            "inner_id": "UKR",
+            "lang_code": "UAN",
+            "node_type_code": "COUNTRY",
+            "node_type_code_id": 44,
+            "node_type_id": 1,
+            "node_type_name": "країна",
+            "node_type_sname": "країна"
+          },
+          {
+            "code": "UA40722",
+            "desc": "Київ",
+            "inner_id": "UKR00Q",
+            "lang_code": "UAN",
+            "node_type_code": "CITY",
+            "node_type_code_id": 1,
+            "node_type_id": 4,
+            "node_type_name": "місто",
+            "node_type_sname": "м"
+          },
+          {
+            "code": "2XBEHWTBY70000",
+            "desc": "Дврз-1",
+            "inner_id": "UKR00Q0CF",
+            "lang_code": "UAN",
+            "node_type_code": "MICRODISTRICT",
+            "node_type_code_id": 13,
+            "node_type_id": 7,
+            "node_type_name": "мікрорайон",
+            "node_type_sname": "мкр"
+          },
+          {
+            "code": "5284R6WOJE4IGC",
+            "desc": "9",
+            "inner_id": "UKR00Q0CF01T",
+            "lang_code": "UAN",
+            "node_type_code": "BUILDING",
+            "node_type_code_id": 38,
+            "node_type_id": 9,
+            "node_type_name": "будинок",
+            "node_type_sname": "буд"
+          }
+        ]
+      }
+    },
+    {
+      "id": "13M387I5ZZ2EX0",
+      "title": "м. Кривий Ріг, вул. Ісаковського, буд. 26",
+      "alias": "777",
+      "counter": 0,
+      "address_info": {
+        "nodes": [
+          {
+            "code": "UA40773",
+            "desc": "Україна",
+            "inner_id": "UKR",
+            "lang_code": "UAN",
+            "node_type_code": "COUNTRY",
+            "node_type_code_id": 44,
+            "node_type_id": 1,
+            "node_type_name": "країна",
+            "node_type_sname": "країна"
+          },
+          {
+            "code": "UA4973",
+            "desc": "Дніпропетровська",
+            "inner_id": "UKR004",
+            "lang_code": "UAN",
+            "node_type_code": "AREA",
+            "node_type_code_id": 5,
+            "node_type_id": 2,
+            "node_type_name": "область",
+            "node_type_sname": "обл"
+          },
+          {
+            "code": "UA4993",
+            "desc": "Кривий Ріг",
+            "inner_id": "UKR004005",
+            "lang_code": "UAN",
+            "node_type_code": "CITY",
+            "node_type_code_id": 1,
+            "node_type_id": 4,
+            "node_type_name": "місто",
+            "node_type_sname": "м"
+          },
+          {
+            "code": "2X1SKFGGF8XM00",
+            "desc": "Ісаковського",
+            "inner_id": "UKR0040050T6",
+            "lang_code": "UAN",
+            "node_type_code": "STREET",
+            "node_type_code_id": 36,
+            "node_type_id": 8,
+            "node_type_name": "вулиця",
+            "node_type_sname": "вул"
+          },
+          {
+            "code": "13M387I5ZZ2EX0",
+            "desc": "26",
+            "inner_id": "UKR0040050T600I",
+            "lang_code": "UAN",
+            "node_type_code": "BUILDING",
+            "node_type_code_id": 38,
+            "node_type_id": 9,
+            "node_type_name": "будинок",
+            "node_type_sname": "буд"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2VDP1FRBCTNF0D",
+      "title": "м. Одеса, вул. Академіка Корольова, буд. 114/1, кв. 14",
+      "counter": 0,
+      "address_info": {
+        "nodes": [
+          {
+            "code": "UA40773",
+            "desc": "Україна",
+            "inner_id": "UKR",
+            "lang_code": "UAN",
+            "node_type_code": "COUNTRY",
+            "node_type_code_id": 44,
+            "node_type_id": 1,
+            "node_type_name": "країна",
+            "node_type_sname": "країна"
+          },
+          {
+            "code": "UA22387",
+            "desc": "Одеська",
+            "inner_id": "UKR00F",
+            "lang_code": "UAN",
+            "node_type_code": "AREA",
+            "node_type_code_id": 5,
+            "node_type_id": 2,
+            "node_type_name": "область",
+            "node_type_sname": "обл"
+          },
+          {
+            "code": "UA22388",
+            "desc": "Одеса",
+            "inner_id": "UKR00F001",
+            "lang_code": "UAN",
+            "node_type_code": "CITY",
+            "node_type_code_id": 1,
+            "node_type_id": 4,
+            "node_type_name": "місто",
+            "node_type_sname": "м"
+          },
+          {
+            "code": "2X39SNTR8KCN00",
+            "desc": "Академіка Корольова",
+            "inner_id": "UKR00F00103J",
+            "lang_code": "UAN",
+            "node_type_code": "STREET",
+            "node_type_code_id": 36,
+            "node_type_id": 8,
+            "node_type_name": "вулиця",
+            "node_type_sname": "вул"
+          },
+          {
+            "code": "42B25P5H4LGY0C",
+            "desc": "114/1",
+            "inner_id": "UKR00F00103J0ER",
+            "lang_code": "UAN",
+            "node_type_code": "BUILDING",
+            "node_type_code_id": 38,
+            "node_type_id": 9,
+            "node_type_name": "будинок",
+            "node_type_sname": "буд"
+          },
+          {
+            "code": "2VDP1FRBCTNF0D",
+            "desc": "14",
+            "inner_id": "UKR00F00103J0ER007",
+            "lang_code": "UAN",
+            "node_type_code": "FLAT",
+            "node_type_code_id": 40,
+            "node_type_id": 11,
+            "node_type_name": "квартира",
+            "node_type_sname": "кв"
+          }
+        ]
+      }
+    },
+    {
+      "id": "132WF13ICC1D00",
+      "title": "м. Одеса, вул. Академіка Корольова, буд. 88, кв. 12",
+      "alias": "AB24Mob",
+      "counter": 9,
+      "address_info": {
+        "nodes": [
+          {
+            "code": "UA40773",
+            "desc": "Україна",
+            "inner_id": "UKR",
+            "lang_code": "UAN",
+            "node_type_code": "COUNTRY",
+            "node_type_code_id": 44,
+            "node_type_id": 1,
+            "node_type_name": "країна",
+            "node_type_sname": "країна"
+          },
+          {
+            "code": "UA22387",
+            "desc": "Одеська",
+            "inner_id": "UKR00F",
+            "lang_code": "UAN",
+            "node_type_code": "AREA",
+            "node_type_code_id": 5,
+            "node_type_id": 2,
+            "node_type_name": "область",
+            "node_type_sname": "обл"
+          },
+          {
+            "code": "UA22388",
+            "desc": "Одеса",
+            "inner_id": "UKR00F001",
+            "lang_code": "UAN",
+            "node_type_code": "CITY",
+            "node_type_code_id": 1,
+            "node_type_id": 4,
+            "node_type_name": "місто",
+            "node_type_sname": "м"
+          },
+          {
+            "code": "2X39SNTR8KCN00",
+            "desc": "Академіка Корольова",
+            "inner_id": "UKR00F00103J",
+            "lang_code": "UAN",
+            "node_type_code": "STREET",
+            "node_type_code_id": 36,
+            "node_type_id": 8,
+            "node_type_name": "вулиця",
+            "node_type_sname": "вул"
+          },
+          {
+            "code": "1322BAPF5HFQ00",
+            "desc": "88",
+            "inner_id": "UKR00F00103J02B",
+            "lang_code": "UAN",
+            "node_type_code": "BUILDING",
+            "node_type_code_id": 38,
+            "node_type_id": 9,
+            "node_type_name": "будинок",
+            "node_type_sname": "буд"
+          },
+          {
+            "code": "132WF13ICC1D00",
+            "desc": "12",
+            "inner_id": "UKR00F00103J02B003",
+            "lang_code": "UAN",
+            "node_type_code": "FLAT",
+            "node_type_code_id": 40,
+            "node_type_id": 11,
+            "node_type_name": "квартира",
+            "node_type_sname": "кв"
+          }
+        ]
+      }
+    },
+    {
+      "id": "13VLMK16S2OL00",
+      "title": "м. Одеса, вул. Академіка Корольова, буд. 90а, кв. 80",
+      "counter": 0,
+      "address_info": {
+        "nodes": [
+          {
+            "code": "UA40773",
+            "desc": "Україна",
+            "inner_id": "UKR",
+            "lang_code": "UAN",
+            "node_type_code": "COUNTRY",
+            "node_type_code_id": 44,
+            "node_type_id": 1,
+            "node_type_name": "країна",
+            "node_type_sname": "країна"
+          },
+          {
+            "code": "UA22387",
+            "desc": "Одеська",
+            "inner_id": "UKR00F",
+            "lang_code": "UAN",
+            "node_type_code": "AREA",
+            "node_type_code_id": 5,
+            "node_type_id": 2,
+            "node_type_name": "область",
+            "node_type_sname": "обл"
+          },
+          {
+            "code": "UA22388",
+            "desc": "Одеса",
+            "inner_id": "UKR00F001",
+            "lang_code": "UAN",
+            "node_type_code": "CITY",
+            "node_type_code_id": 1,
+            "node_type_id": 4,
+            "node_type_name": "місто",
+            "node_type_sname": "м"
+          },
+          {
+            "code": "2X39SNTR8KCN00",
+            "desc": "Академіка Корольова",
+            "inner_id": "UKR00F00103J",
+            "lang_code": "UAN",
+            "node_type_code": "STREET",
+            "node_type_code_id": 36,
+            "node_type_id": 8,
+            "node_type_name": "вулиця",
+            "node_type_sname": "вул"
+          },
+          {
+            "code": "48DST972L7PL0C",
+            "desc": "90а",
+            "inner_id": "UKR00F00103J0FP",
+            "lang_code": "UAN",
+            "node_type_code": "BUILDING",
+            "node_type_code_id": 38,
+            "node_type_id": 9,
+            "node_type_name": "будинок",
+            "node_type_sname": "буд"
+          },
+          {
+            "code": "13VLMK16S2OL00",
+            "desc": "80",
+            "inner_id": "UKR00F00103J0FP00F",
+            "lang_code": "UAN",
+            "node_type_code": "FLAT",
+            "node_type_code_id": 40,
+            "node_type_id": 11,
+            "node_type_name": "квартира",
+            "node_type_sname": "кв"
+          }
+        ]
+      }
+    },
+    {
+      "id": "21NHN44FO6H1OD",
+      "title": "м. Одеса, вул. Третя /ленінський/, буд. 13А",
+      "counter": 0,
+      "address_info": {
+        "nodes": [
+          {
+            "code": "UA40773",
+            "desc": "Україна",
+            "inner_id": "UKR",
+            "lang_code": "UAN",
+            "node_type_code": "COUNTRY",
+            "node_type_code_id": 44,
+            "node_type_id": 1,
+            "node_type_name": "країна",
+            "node_type_sname": "країна"
+          },
+          {
+            "code": "UA22387",
+            "desc": "Одеська",
+            "inner_id": "UKR00F",
+            "lang_code": "UAN",
+            "node_type_code": "AREA",
+            "node_type_code_id": 5,
+            "node_type_id": 2,
+            "node_type_name": "область",
+            "node_type_sname": "обл"
+          },
+          {
+            "code": "UA22388",
+            "desc": "Одеса",
+            "inner_id": "UKR00F001",
+            "lang_code": "UAN",
+            "node_type_code": "CITY",
+            "node_type_code_id": 1,
+            "node_type_id": 4,
+            "node_type_name": "місто",
+            "node_type_sname": "м"
+          },
+          {
+            "code": "2BAOTWKJL3Y000",
+            "desc": "Третя /ленінський/",
+            "inner_id": "UKR00F0010WE",
+            "lang_code": "UAN",
+            "node_type_code": "STREET",
+            "node_type_code_id": 36,
+            "node_type_id": 8,
+            "node_type_name": "вулиця",
+            "node_type_sname": "вул"
+          },
+          {
+            "code": "21NHN44FO6H1OD",
+            "desc": "13А",
+            "inner_id": "UKR00F0010WE009",
+            "lang_code": "UAN",
+            "node_type_code": "BUILDING",
+            "node_type_code_id": 38,
+            "node_type_id": 9,
+            "node_type_name": "будинок",
+            "node_type_sname": "буд"
+          }
+        ]
+      }
+    },
+    {
+      "id": "13J9737P8PMGL0",
+      "title": "м. Тернопіль, вул. Весела, буд. 7, кв. 1",
+      "counter": 0,
+      "address_info": {
+        "nodes": [
+          {
+            "code": "UA40773",
+            "desc": "Україна",
+            "inner_id": "UKR",
+            "lang_code": "UAN",
+            "node_type_code": "COUNTRY",
+            "node_type_code_id": 44,
+            "node_type_id": 1,
+            "node_type_name": "країна",
+            "node_type_sname": "країна"
+          },
+          {
+            "code": "UA29699",
+            "desc": "Тернопільська",
+            "inner_id": "UKR00J",
+            "lang_code": "UAN",
+            "node_type_code": "AREA",
+            "node_type_code_id": 5,
+            "node_type_id": 2,
+            "node_type_name": "область",
+            "node_type_sname": "обл"
+          },
+          {
+            "code": "UA29700",
+            "desc": "Тернопіль",
+            "inner_id": "UKR00J001",
+            "lang_code": "UAN",
+            "node_type_code": "CITY",
+            "node_type_code_id": 1,
+            "node_type_id": 4,
+            "node_type_name": "місто",
+            "node_type_sname": "м"
+          },
+          {
+            "code": "2X4M2DA3BVRG00",
+            "desc": "Весела",
+            "inner_id": "UKR00J00100U",
+            "lang_code": "UAN",
+            "node_type_code": "STREET",
+            "node_type_code_id": 36,
+            "node_type_id": 8,
+            "node_type_name": "вулиця",
+            "node_type_sname": "вул"
+          },
+          {
+            "code": "13J9736O5D8SO0",
+            "desc": "7",
+            "inner_id": "UKR00J00100U01I",
+            "lang_code": "UAN",
+            "node_type_code": "BUILDING",
+            "node_type_code_id": 38,
+            "node_type_id": 9,
+            "node_type_name": "будинок",
+            "node_type_sname": "буд"
+          },
+          {
+            "code": "13J9737P8PMGL0",
+            "desc": "1",
+            "inner_id": "UKR00J00100U01I001",
+            "lang_code": "UAN",
+            "node_type_code": "FLAT",
+            "node_type_code_id": 40,
+            "node_type_id": 11,
+            "node_type_name": "квартира",
+            "node_type_sname": "кв"
+          }
+        ]
+      }
+    },
+    {
+      "id": "21NHMPVS5T5DLA",
+      "title": "м. Торецьк, вул. Дзержинського, буд. 4, кв. 5",
+      "counter": 4,
+      "address_info": {
+        "nodes": [
+          {
+            "code": "UA40773",
+            "desc": "Україна",
+            "inner_id": "UKR",
+            "lang_code": "UAN",
+            "node_type_code": "COUNTRY",
+            "node_type_code_id": 44,
+            "node_type_id": 1,
+            "node_type_name": "країна",
+            "node_type_sname": "країна"
+          },
+          {
+            "code": "UA6806",
+            "desc": "Донецька",
+            "inner_id": "UKR005",
+            "lang_code": "UAN",
+            "node_type_code": "AREA",
+            "node_type_code_id": 5,
+            "node_type_id": 2,
+            "node_type_name": "область",
+            "node_type_sname": "обл"
+          },
+          {
+            "code": "UA6852",
+            "desc": "Торецьк",
+            "inner_id": "UKR005006",
+            "lang_code": "UAN",
+            "node_type_code": "CITY",
+            "node_type_code_id": 1,
+            "node_type_id": 4,
+            "node_type_name": "місто",
+            "node_type_sname": "м"
+          },
+          {
+            "code": "2XV0Y64QHWK000",
+            "desc": "Дзержинського",
+            "inner_id": "UKR005006021",
+            "lang_code": "UAN",
+            "node_type_code": "STREET",
+            "node_type_code_id": 36,
+            "node_type_id": 8,
+            "node_type_name": "вулиця",
+            "node_type_sname": "вул"
+          },
+          {
+            "code": "13V12ZX2ZAFA00",
+            "desc": "4",
+            "inner_id": "UKR00500602102Z",
+            "lang_code": "UAN",
+            "node_type_code": "BUILDING",
+            "node_type_code_id": 38,
+            "node_type_id": 9,
+            "node_type_name": "будинок",
+            "node_type_sname": "буд"
+          },
+          {
+            "code": "21NHMPVS5T5DLA",
+            "desc": "5",
+            "inner_id": "UKR00500602102Z003",
+            "lang_code": "UAN",
+            "node_type_code": "FLAT",
+            "node_type_code_id": 40,
+            "node_type_id": 11,
+            "node_type_name": "квартира",
+            "node_type_sname": "кв"
+          }
+        ]
+      }
+    },
+    {
+      "id": "14A2RN9T3JG450",
+      "title": "м. Харків, вул. Сумська, буд. 10, кв. 5",
+      "counter": 7,
+      "address_info": {
+        "nodes": [
+          {
+            "code": "UA40773",
+            "desc": "Україна",
+            "inner_id": "UKR",
+            "lang_code": "UAN",
+            "node_type_code": "COUNTRY",
+            "node_type_code_id": 44,
+            "node_type_id": 1,
+            "node_type_name": "країна",
+            "node_type_sname": "країна"
+          },
+          {
+            "code": "UA31354",
+            "desc": "Харківська",
+            "inner_id": "UKR00K",
+            "lang_code": "UAN",
+            "node_type_code": "AREA",
+            "node_type_code_id": 5,
+            "node_type_id": 2,
+            "node_type_name": "область",
+            "node_type_sname": "обл"
+          },
+          {
+            "code": "UA31355",
+            "desc": "Харків",
+            "inner_id": "UKR00K001",
+            "lang_code": "UAN",
+            "node_type_code": "CITY",
+            "node_type_code_id": 1,
+            "node_type_id": 4,
+            "node_type_name": "місто",
+            "node_type_sname": "м"
+          },
+          {
+            "code": "2X3IL1XG1LD000",
+            "desc": "Сумська",
+            "inner_id": "UKR00K00106C",
+            "lang_code": "UAN",
+            "node_type_code": "STREET",
+            "node_type_code_id": 36,
+            "node_type_id": 8,
+            "node_type_name": "вулиця",
+            "node_type_sname": "вул"
+          },
+          {
+            "code": "132425TUDGVI60",
+            "desc": "10",
+            "inner_id": "UKR00K00106C026",
+            "lang_code": "UAN",
+            "node_type_code": "BUILDING",
+            "node_type_code_id": 38,
+            "node_type_id": 9,
+            "node_type_name": "будинок",
+            "node_type_sname": "буд"
+          },
+          {
+            "code": "14A2RN9T3JG450",
+            "desc": "5",
+            "inner_id": "UKR00K00106C026003",
+            "lang_code": "UAN",
+            "node_type_code": "FLAT",
+            "node_type_code_id": 40,
+            "node_type_id": 11,
+            "node_type_name": "квартира",
+            "node_type_sname": "кв"
+          }
+        ]
+      }
+    },
+    {
+      "id": "45I34FVEELHT0C",
+      "title": "м. Харків, просп. Олександрівський, буд. 79, кв. 17",
+      "counter": 24,
+      "address_info": {
+        "nodes": [
+          {
+            "code": "UA40773",
+            "desc": "Україна",
+            "inner_id": "UKR",
+            "lang_code": "UAN",
+            "node_type_code": "COUNTRY",
+            "node_type_code_id": 44,
+            "node_type_id": 1,
+            "node_type_name": "країна",
+            "node_type_sname": "країна"
+          },
+          {
+            "code": "UA31354",
+            "desc": "Харківська",
+            "inner_id": "UKR00K",
+            "lang_code": "UAN",
+            "node_type_code": "AREA",
+            "node_type_code_id": 5,
+            "node_type_id": 2,
+            "node_type_name": "область",
+            "node_type_sname": "обл"
+          },
+          {
+            "code": "UA31355",
+            "desc": "Харків",
+            "inner_id": "UKR00K001",
+            "lang_code": "UAN",
+            "node_type_code": "CITY",
+            "node_type_code_id": 1,
+            "node_type_id": 4,
+            "node_type_name": "місто",
+            "node_type_sname": "м"
+          },
+          {
+            "code": "2X7DJIVQEBR000",
+            "desc": "Олександрівський",
+            "inner_id": "UKR00K00138Y",
+            "lang_code": "UAN",
+            "node_type_code": "PROSPECT",
+            "node_type_code_id": 31,
+            "node_type_id": 8,
+            "node_type_name": "проспект",
+            "node_type_sname": "просп"
+          },
+          {
+            "code": "36O2NCQY5ZTBQC",
+            "desc": "79",
+            "inner_id": "UKR00K00138Y05Q",
+            "lang_code": "UAN",
+            "node_type_code": "BUILDING",
+            "node_type_code_id": 38,
+            "node_type_id": 9,
+            "node_type_name": "будинок",
+            "node_type_sname": "буд"
+          },
+          {
+            "code": "45I34FVEELHT0C",
+            "desc": "17",
+            "inner_id": "UKR00K00138Y05Q00P",
+            "lang_code": "UAN",
+            "node_type_code": "FLAT",
+            "node_type_code_id": 40,
+            "node_type_id": 11,
+            "node_type_name": "квартира",
+            "node_type_sname": "кв"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4439XEQ75TF3TC",
+      "title": "р-н. Олешківський, м. Олешки, пров. Комунарів, буд. 1",
+      "alias": "@$%&*(())+=<>\\||//999ПрOba",
+      "counter": 0,
+      "address_info": {
+        "nodes": [
+          {
+            "code": "UA40773",
+            "desc": "Україна",
+            "inner_id": "UKR",
+            "lang_code": "UAN",
+            "node_type_code": "COUNTRY",
+            "node_type_code_id": 44,
+            "node_type_id": 1,
+            "node_type_name": "країна",
+            "node_type_sname": "країна"
+          },
+          {
+            "code": "UA33532",
+            "desc": "Херсонська",
+            "inner_id": "UKR00L",
+            "lang_code": "UAN",
+            "node_type_code": "AREA",
+            "node_type_code_id": 5,
+            "node_type_id": 2,
+            "node_type_name": "область",
+            "node_type_sname": "обл"
+          },
+          {
+            "code": "UA34407",
+            "desc": "Олешківський",
+            "inner_id": "UKR00L00K",
+            "lang_code": "UAN",
+            "node_type_code": "REGION",
+            "node_type_code_id": 6,
+            "node_type_id": 3,
+            "node_type_name": "район",
+            "node_type_sname": "р-н"
+          },
+          {
+            "code": "UA34408",
+            "desc": "Олешки",
+            "inner_id": "UKR00L00K001",
+            "lang_code": "UAN",
+            "node_type_code": "CITY",
+            "node_type_code_id": 1,
+            "node_type_id": 4,
+            "node_type_name": "місто",
+            "node_type_sname": "м"
+          },
+          {
+            "code": "23TEXNDWKVG100",
+            "desc": "Комунарів",
+            "inner_id": "UKR00L00K00104K",
+            "lang_code": "UAN",
+            "node_type_code": "LANE",
+            "node_type_code_id": 27,
+            "node_type_id": 8,
+            "node_type_name": "провулок",
+            "node_type_sname": "пров"
+          },
+          {
+            "code": "4439XEQ75TF3TC",
+            "desc": "1",
+            "inner_id": "UKR00L00K00104K018",
+            "lang_code": "UAN",
+            "node_type_code": "BUILDING",
+            "node_type_code_id": 38,
+            "node_type_id": 9,
+            "node_type_name": "будинок",
+            "node_type_sname": "буд"
+          }
+        ]
+      }
+    },
+    {
+      "id": "23OO5YJJ6JUWZA",
+      "title": "р-н. Тернопільський, с. Великі Гаї, вул. Сонячна, буд. 5, кв. 1",
+      "counter": 4,
+      "address_info": {
+        "nodes": [
+          {
+            "code": "UA40773",
+            "desc": "Україна",
+            "inner_id": "UKR",
+            "lang_code": "UAN",
+            "node_type_code": "COUNTRY",
+            "node_type_code_id": 44,
+            "node_type_id": 1,
+            "node_type_name": "країна",
+            "node_type_sname": "країна"
+          },
+          {
+            "code": "UA29699",
+            "desc": "Тернопільська",
+            "inner_id": "UKR00J",
+            "lang_code": "UAN",
+            "node_type_code": "AREA",
+            "node_type_code_id": 5,
+            "node_type_id": 2,
+            "node_type_name": "область",
+            "node_type_sname": "обл"
+          },
+          {
+            "code": "UA31062",
+            "desc": "Тернопільський",
+            "inner_id": "UKR00J00G",
+            "lang_code": "UAN",
+            "node_type_code": "REGION",
+            "node_type_code_id": 6,
+            "node_type_id": 3,
+            "node_type_name": "район",
+            "node_type_sname": "р-н"
+          },
+          {
+            "code": "UA31077",
+            "desc": "Великі Гаї",
+            "inner_id": "UKR00J00G037",
+            "lang_code": "UAN",
+            "node_type_code": "VILLAGE",
+            "node_type_code_id": 11,
+            "node_type_id": 4,
+            "node_type_name": "село",
+            "node_type_sname": "с"
+          },
+          {
+            "code": "43W8K5VCJVAZJC",
+            "desc": "Сонячна",
+            "inner_id": "UKR00J00G037013",
+            "lang_code": "UAN",
+            "node_type_code": "STREET",
+            "node_type_code_id": 36,
+            "node_type_id": 8,
+            "node_type_name": "вулиця",
+            "node_type_sname": "вул"
+          },
+          {
+            "code": "62JW2YTPWKIP0C",
+            "desc": "5",
+            "inner_id": "UKR00J00G03701300E",
+            "lang_code": "UAN",
+            "node_type_code": "BUILDING",
+            "node_type_code_id": 38,
+            "node_type_id": 9,
+            "node_type_name": "будинок",
+            "node_type_sname": "буд"
+          },
+          {
+            "code": "23OO5YJJ6JUWZA",
+            "desc": "1",
+            "inner_id": "UKR00J00G03701300E001",
+            "lang_code": "UAN",
+            "node_type_code": "FLAT",
+            "node_type_code_id": 40,
+            "node_type_id": 11,
+            "node_type_name": "квартира",
+            "node_type_sname": "кв"
+          }
+        ]
+      }
+    },
+    {
+      "id": "18T2UZSUU18VQ0",
+      "title": "р-н. Тернопільський, сел. Чистілів, вул. Франка, буд. 1",
+      "counter": 16,
+      "address_info": {
+        "nodes": [
+          {
+            "code": "UA40773",
+            "desc": "Україна",
+            "inner_id": "UKR",
+            "lang_code": "UAN",
+            "node_type_code": "COUNTRY",
+            "node_type_code_id": 44,
+            "node_type_id": 1,
+            "node_type_name": "країна",
+            "node_type_sname": "країна"
+          },
+          {
+            "code": "UA29699",
+            "desc": "Тернопільська",
+            "inner_id": "UKR00J",
+            "lang_code": "UAN",
+            "node_type_code": "AREA",
+            "node_type_code_id": 5,
+            "node_type_id": 2,
+            "node_type_name": "область",
+            "node_type_sname": "обл"
+          },
+          {
+            "code": "UA31062",
+            "desc": "Тернопільський",
+            "inner_id": "UKR00J00G",
+            "lang_code": "UAN",
+            "node_type_code": "REGION",
+            "node_type_code_id": 6,
+            "node_type_id": 3,
+            "node_type_name": "район",
+            "node_type_sname": "р-н"
+          },
+          {
+            "code": "UA31155",
+            "desc": "Чистілів",
+            "inner_id": "UKR00J00G04H",
+            "lang_code": "UAN",
+            "node_type_code": "TOWN",
+            "node_type_code_id": 12,
+            "node_type_id": 4,
+            "node_type_name": "селище",
+            "node_type_sname": "сел"
+          },
+          {
+            "code": "2XCMT6VFRDY000",
+            "desc": "Франка",
+            "inner_id": "UKR00J00G04H004",
+            "lang_code": "UAN",
+            "node_type_code": "STREET",
+            "node_type_code_id": 36,
+            "node_type_id": 8,
+            "node_type_name": "вулиця",
+            "node_type_sname": "вул"
+          },
+          {
+            "code": "18T2UZSUU18VQ0",
+            "desc": "1",
+            "inner_id": "UKR00J00G04H00400B",
+            "lang_code": "UAN",
+            "node_type_code": "BUILDING",
+            "node_type_code_id": 38,
+            "node_type_id": 9,
+            "node_type_name": "будинок",
+            "node_type_sname": "буд"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3622R1A2TMIV23",
+      "title": "р-н. Тернопільський, смт. Велика Березовиця, вул. Микулинецька, буд. 40, корп. А, кв. 7",
+      "counter": 2,
+      "address_info": {
+        "nodes": [
+          {
+            "code": "UA40773",
+            "desc": "Україна",
+            "inner_id": "UKR",
+            "lang_code": "UAN",
+            "node_type_code": "COUNTRY",
+            "node_type_code_id": 44,
+            "node_type_id": 1,
+            "node_type_name": "країна",
+            "node_type_sname": "країна"
+          },
+          {
+            "code": "UA29699",
+            "desc": "Тернопільська",
+            "inner_id": "UKR00J",
+            "lang_code": "UAN",
+            "node_type_code": "AREA",
+            "node_type_code_id": 5,
+            "node_type_id": 2,
+            "node_type_name": "область",
+            "node_type_sname": "обл"
+          },
+          {
+            "code": "UA31062",
+            "desc": "Тернопільський",
+            "inner_id": "UKR00J00G",
+            "lang_code": "UAN",
+            "node_type_code": "REGION",
+            "node_type_code_id": 6,
+            "node_type_id": 3,
+            "node_type_name": "район",
+            "node_type_sname": "р-н"
+          },
+          {
+            "code": "UA31063",
+            "desc": "Велика Березовиця",
+            "inner_id": "UKR00J00G001",
+            "lang_code": "UAN",
+            "node_type_code": "PGT",
+            "node_type_code_id": 10,
+            "node_type_id": 4,
+            "node_type_name": "Селище міського типу",
+            "node_type_sname": "смт"
+          },
+          {
+            "code": "24D48TRKJPST00",
+            "desc": "Микулинецька",
+            "inner_id": "UKR00J00G00101P",
+            "lang_code": "UAN",
+            "node_type_code": "STREET",
+            "node_type_code_id": 36,
+            "node_type_id": 8,
+            "node_type_name": "вулиця",
+            "node_type_sname": "вул"
+          },
+          {
+            "code": "24E91FV7W3AO00",
+            "desc": "40",
+            "inner_id": "UKR00J00G00101P002",
+            "lang_code": "UAN",
+            "node_type_code": "BUILDING",
+            "node_type_code_id": 38,
+            "node_type_id": 9,
+            "node_type_name": "будинок",
+            "node_type_sname": "буд"
+          },
+          {
+            "code": "24E91G2NUJGN00",
+            "desc": "А",
+            "inner_id": "UKR00J00G00101P002001",
+            "lang_code": "UAN",
+            "node_type_code": "CORPUS",
+            "node_type_code_id": 39,
+            "node_type_id": 10,
+            "node_type_name": "корпус",
+            "node_type_sname": "корп"
+          },
+          {
+            "code": "3622R1A2TMIV23",
+            "desc": "7",
+            "inner_id": "UKR00J00G00101P00200100D",
+            "lang_code": "UAN",
+            "node_type_code": "FLAT",
+            "node_type_code_id": 40,
+            "node_type_id": 11,
+            "node_type_name": "квартира",
+            "node_type_sname": "кв"
+          }
+        ]
+      }
+    }
+  ],
+  "request_ref": "B727F722-DB61-4BBF-AB8D-FF9B5C23E07F",
+  "response_ref": "99a6f6c3-bf3f-43ff-bc62-5a8a07b98625"
+}
